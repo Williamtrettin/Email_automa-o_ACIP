@@ -15,7 +15,7 @@ O script Python lê esses arquivos, agrupa todos os gastos de uma mesma empresa 
 
 Esta automação foi desenvolvida utilizando a biblioteca `pywin32` para integração com o ecossistema Windows. **O funcionamento é exclusivo para o Outlook Clássico (Desktop)**. 
 * O software deve estar instalado e com uma conta de e-mail configurada e ativa no computador onde o script será executado.
-** È recomendado abrir e deixar o outlook aberto para rodar o código.**
+* È recomendado abrir e deixar o outlook aberto para rodar o código.
 
 ## 🛠️ Tecnologias Utilizadas
 
